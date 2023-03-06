@@ -1,8 +1,8 @@
 # Joining-the-Testnet-ALICE
 
-[Documentation](https://docs.muon.net/muon-network/)
-[Discord](https://discord.gg/AFZB9DVe)
-[twiter](https://twitter.com/muon_net)
+- **[Documentation](https://docs.muon.net/muon-network/)**
+- **[Discord](https://discord.gg/AFZB9DVe)**
+- **[twiter](https://twitter.com/muon_net)**
 # Recommended Requirements
 - **A Linux server with 4 GB of RAM, dual-core CPU, 20GB of storage space**
 

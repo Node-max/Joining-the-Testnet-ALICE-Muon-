@@ -28,7 +28,7 @@ The result should look like this:
 The highlighted address and peerId will be needed in the last stage of adding the node to the network (explained below).
 
 **2) Adding the Node to the Network** 
-- **To join ALICE, one needs to stake ALICE token. This dashboard is used for staking ALICE test token, and adding the node to the Testnet. Here is a step-by-step description:**
+- **To join ALICE, one needs to stake ALICE token. [This dashboard](https://alice.muon.net/) is used for staking ALICE test token, and adding the node to the Testnet. Here is a step-by-step description:**
 ![image](https://user-images.githubusercontent.com/61777095/223038905-03277bdd-db4c-42cf-9fd8-d863c1d2f766.png)
 - **As ALICE's node manager is deployed on BSC Testnet, this network should be added to your wallet before you can start adding the node. The "SWITCH NETWORK" button can be used to add and switch to this network.**  
 ![image](https://user-images.githubusercontent.com/61777095/223038965-86cdda61-bf9a-43f2-9951-e51b0245a31b.png)
